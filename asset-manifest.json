@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/d1coupe/static/css/main.4971a92e.css",
+    "main.js": "/d1coupe/static/js/main.36b36a3f.js",
+    "index.html": "/d1coupe/index.html",
+    "main.4971a92e.css.map": "/d1coupe/static/css/main.4971a92e.css.map",
+    "main.36b36a3f.js.map": "/d1coupe/static/js/main.36b36a3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4971a92e.css",
+    "static/js/main.36b36a3f.js"
+  ]
+}
